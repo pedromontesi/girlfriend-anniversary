@@ -1,0 +1,70 @@
+:root {
+    --primary-1: #A11412;
+    --secundary-1: #B52C2A;
+    --background-1: #D98B56;
+
+    --primary-2: #9CD7E1;
+    --secundary-2: #7EADB5;
+    --background-2: #041F24;
+
+    --primary-3: #000000;
+    --secundary-3: #222222;
+    --background-3: #ffffff;
+
+    --primary-4: #3A222C;
+    --secundary-4: #4D2E3B;
+    --background-4: #A78B97;
+
+    --secundary-5: #1A5C67;
+}
+
+
+.color-primary-1 {
+    color: var(--primary-1);
+}
+.color-secundary-1 {
+    color: var(--secundary-1);
+}
+.bg-1 {
+    background-color: var(--background-1);
+}
+
+
+.color-primary-2 {
+    color: var(--primary-2);
+}
+.color-secundary-2 {
+    color: var(--secundary-2);
+}
+.bg-2 {
+    background-color: var(--background-2);
+}
+
+
+
+.color-primary-3 {
+    color: var(--primary-3);
+}
+.color-secundary-3 {
+    color: var(--secundary-3);
+}
+.bg-3 {
+    background-color: var(--background-3);
+}
+
+
+.color-primary-4 {
+    color: var(--primary-4);
+}
+.color-secundary-4 {
+    color: var(--secundary-4);
+}
+.bg-4 {
+    background-color: var(--background-4);
+}
+
+
+.color-secundary-5 {
+    color: var(--secundary);
+}
+
