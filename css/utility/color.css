@@ -64,7 +64,16 @@
 }
 
 
-.color-secundary-5 {
-    color: var(--secundary);
+.color-primary-5 {
+    color: var(--background-2);
 }
 
+.color-secundary-5 {
+    color: var(--secundary-5);
+
+}
+
+.bg-5 {
+    background-color: var(--primary-2);
+
+}

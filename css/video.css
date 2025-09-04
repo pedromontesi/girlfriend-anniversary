@@ -1,0 +1,9 @@
+
+video {
+  border-radius: 40px;
+  max-width: 256px;
+}
+
+video::-webkit-media-controls-panel  {
+  background-color: #eee;
+}
