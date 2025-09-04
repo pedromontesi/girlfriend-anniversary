@@ -8,13 +8,13 @@
 
 
 /* Utility */ 
-@import "/utility/color.css";
-@import "/utility/button.css";
-@import "/utility/shadow.css";
-@import "/utility/spacing.css";
+@import "/css/utility/color.css";
+@import "/css/utility/button.css";
+@import "/css/utility/shadow.css";
+@import "/css/utility/spacing.css";
 @import "/css/utility/text.css";
-@import "/utility/animation.css";
-@import "/utility/bounce.css";
+@import "/css/utility/animation.css";
+@import "/css/utility/bounce.css";
 
 
 
